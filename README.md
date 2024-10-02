@@ -1,6 +1,6 @@
 # HERANCA_1
 
-Este repositório contém um projeto em Java que implementa uma superclasse HERANCA_1 e as seguintes subclasses PessoaJuridica, PessoaFisica e Funcionario. A superclasse HERANCA_1 inclui os seguintes atributos comuns: nome, endereco e email, a subclasse PessoaJuridica herda os atributos comuns da superclasse e acrescenta o atributo exclusivo cnpj, já a subclasse PessoaFisica herda os atributos comuns da superclasse e acrescenta o atributo exclusivo cpf e por último subclasse Funcionario herda os atributos comuns da superclasse e acrescenta os atributos exclusivos cpfFuncionario e salario.
+Este repositório contém um projeto em Java que implementa uma superclasse HERANCA_1 e as seguintes subclasses PessoaJuridica, PessoaFisica e Funcionario. A superclasse HERANCA_1 inclui os seguintes atributos comuns: nome, endereco e email, a subclasse PessoaJuridica herda os atributos comuns da superclasse e acrescenta o atributo exclusivo cnpj, já a subclasse PessoaFisica herda os atributos comuns da superclasse e acrescenta o atributo exclusivo cpf e por último a subclasse Funcionario herda os atributos comuns da superclasse e acrescenta os atributos exclusivos cpfFuncionario e salario.
 
 # 🚀 Começando
 
