@@ -22,7 +22,7 @@ Este repositório contém um projeto em Java que implementa uma superclasse HERA
    - Baixe e siga as instruções de instalação para a IDE escolhida.
 3. Crie e execute o projeto:
    - Abra a IDE e crie um novo projeto Java.
-   - Adicione as classes "Produto" e "Pessoas".
+   - Adicione as classes "HERANCA_1", "PessoaJuridica", "PessoaFisica" e "Funcionario".
    - Compile e execute o projeto pelo método "main".
 
 # 🛠 Construído com 
