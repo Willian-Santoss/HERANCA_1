@@ -5,7 +5,7 @@ Este repositório contém um projeto em Java que implementa uma superclasse HERA
 # 🚀 Começando
 
 - Crie os atributos e construtor da superclasse, logo após crie métodos para chamar e alterar os valores dos atributos.
-- Crie as subclasses e dentro delas crie construtores com seus atributos exclusivos e então crie métodos para chamar e alterar os valores dos atributos.
+- Crie as subclasses com seus atributos exclusivos e dentro delas crie construtores com métodos para chamar os atributos em comum da super classe e metódos para chamar e alterar os valores dos atributos exclusivos.
 - Crie métodos para apresentar os resultados no console.
 
 # 📋 Pré-requisitos
